@@ -1,6 +1,8 @@
 # AngularMyStore
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.2.
+This is a https://stackblitz.com/ project you can reach it directly from here: https://stackblitz.com/edit/angular-u8bqbp
+Also this project is published to firebase you can directly reach site from this link: https://angular-my-store-b44b7.web.app/
 
 ## Development server
 
