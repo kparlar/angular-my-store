@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "angular-my-store-b44b7": {
+      "hosting": {
+        "angular-my-store": [
+          "angular-my-store-b44b7"
+        ]
+      }
+    }
+  }
+}
